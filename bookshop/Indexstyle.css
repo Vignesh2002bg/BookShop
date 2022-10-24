@@ -1,0 +1,46 @@
+.pic{
+    background-image: url("./Photos/pexels-ricardo-esquivel-1907785.jpg");
+    background-size: 1350px;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 150px;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-repeat: repeat;
+}
+.col-sm{
+    display: inline-block;
+}
+.container-fulid{
+    background-color: beige;
+}
+.row{
+    margin-left: 30px;
+}
+.card-img-top{
+    width: 348px;
+    height: 150px;
+}
+.card{
+    width:350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cardmsg{
+    margin-top: 20px;
+    text-align: center;
+}
+.card2{
+    background-color: white;
+}
+.sign,btn btn-warning{
+    text-align: center;
+}
+.btn-warning{
+    margin-bottom: 30px;
+    border-radius: 40px;
+}
+.footer{
+    background-color: gray;
+}
